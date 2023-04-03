@@ -3,10 +3,16 @@ import numpy as np
 
 def partial_dMF(x, mf_definition, partial_parameter):
     """Calculates the partial derivative of a membership function at a point x.
+
+
+
     Parameters
     ------
+
+
     Returns
     ------
+
     """
     mf_name = mf_definition[0]
 
